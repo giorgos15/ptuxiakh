@@ -1,0 +1,12 @@
+[2023-10-03 18:11:52.406] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2023-10-03 18:11:52.407] [board_logger] [trace] Board object created -1
+[2023-10-03 18:11:52.407] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2023-10-03 18:26:04.136] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2023-10-03 18:26:04.141] [board_logger] [trace] Board object created -1
+[2023-10-03 18:26:04.141] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2023-10-03 18:30:32.971] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2023-10-03 18:30:32.971] [board_logger] [trace] Board object created -1
+[2023-10-03 18:30:32.971] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2023-10-03 18:33:01.221] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2023-10-03 18:33:01.221] [board_logger] [trace] Board object created -1
+[2023-10-03 18:33:01.221] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
